@@ -9,6 +9,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <HelloWorld msg="Hello Vue 3 + Vite" />
   <div>123312321</div>
   <div>123312321</div>
+  <div>123312321</div>
 </template>
 
 <style>
